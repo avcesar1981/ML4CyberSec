@@ -2,10 +2,10 @@ from setuptools import setup, find_packages
  
 setup(name='cybersectk',
       version='1.0',
-      url='https://github.com/sumendrabsingh/CyberSecTK-Library',
+      url='https://github.com/avcesar1981/CyberSecTK-Library',
       license='MIT',
-      author='SumendraBSingh',
-      author_email='sumendrasingh@gmail.com',
+      author='CesarOliveira',
+      author_email='avcesar@gmail.com',
       description='Library for Machine Learning CyberSec feature extraction',
       packages=['cybersectk'],
       install_requires=[
